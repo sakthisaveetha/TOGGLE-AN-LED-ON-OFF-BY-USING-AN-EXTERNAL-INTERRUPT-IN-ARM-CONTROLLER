@@ -93,10 +93,11 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 }
 
 **OUTPUT:**
-
-
-
-
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
 
 
 
