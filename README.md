@@ -28,7 +28,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 12.	Connect the stm nucleo board and click on run.
 
 **STM 32 CUBE PROGRAM** : https://www.youtube.com/watch?v=oJc0seuBbzI
-
+```
 #include "main.h" 
 
 #include "stdbool.h"
@@ -91,14 +91,9 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 }
 
 }
-
+```
 **OUTPUT:**
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
-
+![WhatsApp Image 2025-11-09 at 17 00 00_b88c155b](https://github.com/user-attachments/assets/71441b02-a3c4-4f8e-b4a5-c7ac403687eb)
 
 
 **Result :**
