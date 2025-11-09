@@ -1,4 +1,4 @@
-# TOGGLE-AN-LED-ON-OFF-BY-USING-AN-EXTERNAL-INTERRUPT-IN-ARM-CONTROLLER
+![WhatsApp Image 2025-11-09 at 17 00 00_b88c155b](https://github.com/user-attachments/assets/8d7a04db-d1aa-4fa0-ad75-9500b085e9e2)# TOGGLE-AN-LED-ON-OFF-BY-USING-AN-EXTERNAL-INTERRUPT-IN-ARM-CONTROLLER
 
 **Aim:**
 
@@ -93,11 +93,8 @@ HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 }
 
 **OUTPUT:**
-<BR>
-<BR>
-<BR>
-<BR>
-<BR>
+
+![WhatsApp Image 2025-11-09 at 17 00 00_b88c155b](https://github.com/user-attachments/assets/b11ebedc-ba86-48ef-a50c-eadc420a8eec)
 
 
 
